@@ -1,0 +1,3 @@
+npm create vite, then answer the following questions
+
+npm create vite@latest (app folder name, '.' for current dirctory or './wateverFolderNamePath') -- --template template-name
